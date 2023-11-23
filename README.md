@@ -1,6 +1,6 @@
 # 🌱 I’m currently working on ...
 * [Classifying signals from cardiotocography using STFT, CWT and CNN](https://github.com/MichaelAllen1966/ctg_exploratory)
-* [Creating streamlit dashboards to share #BeeWell survey results for the Kailo project](https://github.com/kailo-beewell/standard_school_dashboards)
+* [Creating streamlit dashboards to share #BeeWell survey results for the Kailo project](https://github.com/orgs/kailo-beewell/repositories)
 
 <br/><br/>
 
