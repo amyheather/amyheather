@@ -1,6 +1,5 @@
 # 🌱 I’m currently working on ...
-* [Extracting FHR features (e.g. baseline FHR, accelerations, decelerations) from cardiotocography data](https://github.com/birth-outcomes/fhrma_python)
-* [Classifying signals from cardiotocography using STFT, CWT and CNN](https://github.com/birth-outcomes/ctg_exploratory)
+* [Using cardiotocography (CTG) data to support birth outcome predictions](https://github.com/birth-outcomes)
 * [Creating streamlit dashboards to share #BeeWell survey results for the Kailo project](https://github.com/orgs/kailo-beewell/repositories)
 
 <br/><br/>
