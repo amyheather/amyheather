@@ -1,5 +1,7 @@
+Member of [PenCHORD](https://github.com/penchord) team at the University of Exeter.
+
 # 🌱 I’m currently working on ...
-* [Using cardiotocography (CTG) data to support birth outcome predictions](https://github.com/birth-outcomes)
+* [Pilot work on birth outcome prediction, using cardiotocography (CTG) data and causal inference methods](https://github.com/birth-outcomes)
 * [Creating streamlit dashboards to share #BeeWell survey results for the Kailo project](https://github.com/orgs/kailo-beewell/repositories)
 
 <br/><br/>
