@@ -1,4 +1,15 @@
-Member of [PenCHORD](https://github.com/penchord) team at the University of Exeter.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="400"/>
+</div>
+
+<div align="center">
+
+  <a href="orcid">[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--6596--3479-brightgreen)](https://orcid.org/0000-0002-6596-3479)</a>
+  <a href="linkedin">[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amy_Heather-0A66C2)](https://www.linkedin.com/in/amyheather/)</a>
+  <br>
+  <a>Member of [PenCHORD](https://github.com/penchord) team at the University of Exeter.</a>
+
+</div>
 
 # 🌱 I’m currently working on ...
 
