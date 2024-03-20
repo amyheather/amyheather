@@ -11,12 +11,29 @@
 
 </div>
 
-# 🌱 I’m currently working on ...
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### 🌱 I’m currently working on ...
 
 * [Pilot work on birth outcome prediction, using cardiotocography (CTG) data and causal inference methods](https://github.com/birth-outcomes)
 * [Creating streamlit dashboards to share #BeeWell survey results for the Kailo project](https://github.com/orgs/kailo-beewell/repositories)
 
-# 🔭 I’ve previously worked on ...
+---
+
+### 🔭 I’ve previously worked on ...
 
 **IPACS** - Improving Patient flow between Acute, Community and Social care -
 * [Standard version of discrete-time simulation in NHS BNSSG Analytics repository](https://github.com/nhs-bnssg-analytics/ipacs-model)
@@ -26,9 +43,13 @@
 * [Data cleaning and descriptive analysis of SNNAP data](https://github.com/samuel-book/samuel_2_data_prep)
 * [Demographics of emergency stroke unit catchment areas](https://github.com/samuel-book/stroke_unit_demographics)
 
-# 📫 How to reach me: ...
+---
+
+### 📫 How to reach me: ...
 a.heather2@exeter.ac.uk
 
-## GitHub stats
+---
+
+### GitHub stats
 
 ![Amy's GitHub stats](https://github-readme-stats.vercel.app/api?username=amyheather&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&rank_icon=github)
