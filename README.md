@@ -29,12 +29,17 @@
 
 ### 🌱 I’m currently working on ...
 
-* [Pilot work on birth outcome prediction, using cardiotocography (CTG) data and causal inference methods](https://github.com/birth-outcomes)
-* [Creating streamlit dashboards to share #BeeWell survey results for the Kailo project](https://github.com/orgs/kailo-beewell/repositories)
-
+**STARS** - Sharing Tools and Artefacts for Reusable Simulations in Healthcare
+* [GitHub organisation](https://github.com/pythonhealthdatascience)
 ---
 
 ### 🔭 I’ve previously worked on ...
+
+**Kailo** - Delivery #BeeWell (a school-based wellbeing survey) with schools in Northern Devon
+* [Creating streamlit dashboards to share #BeeWell survey results for the Kailo project](https://github.com/orgs/kailo-beewell/repositories)
+
+**Birth outcomes** - Pilot work on birth outcome prediction, using cardiotocography (CTG) data and causal inference methods
+* [GitHub organisation](https://github.com/birth-outcomes)
 
 **IPACS** - Improving Patient flow between Acute, Community and Social care -
 * [Standard version of discrete-time simulation in NHS BNSSG Analytics repository](https://github.com/nhs-bnssg-analytics/ipacs-model)
