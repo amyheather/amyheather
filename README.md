@@ -6,7 +6,8 @@
 
   <a href="orcid">[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--6596--3479-brightgreen)](https://orcid.org/0000-0002-6596-3479)</a>
   <a href="linkedin">[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amy_Heather-0A66C2)](https://www.linkedin.com/in/amyheather/)</a>
-  <a href="dimensions">[![Dimensions](https://img.shields.io/badge/Dimensions-ur.011030126111.42-yellow)](https://app.dimensions.ai/discover/publication?and_facet_researcher=ur.011030126111.42)
+  <a href="dimensions">[![Dimensions](https://img.shields.io/badge/Dimensions-ur.011030126111.42-yellow)](https://app.dimensions.ai/discover/publication?and_facet_researcher=ur.011030126111.42)</a>
+  <a href="scopus">[![Scopus](https://img.shields.io/badge/Scopus-58306926100-e7c6ff)](https://www.scopus.com/authid/detail.uri?authorId=58306926100)</a>
   <br>
   <a>Member of [PenCHORD](https://github.com/penchord) team at the University of Exeter.</a>
 
