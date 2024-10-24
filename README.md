@@ -6,7 +6,7 @@ src="https://media.giphy.com/media/loLCwSfArr6hBTE4nI/giphy.gif" height="40" /><
 
 <div align="center">
 
-  <a>Hello! My name is **Amy Heather** and I am currently a **Postdoctoral Research Associate** at the **University of Exeter**. I'm based in the Peninsula Collaboration for Health Operational Research and Data Science ([PenCHORD](https://penchord.github.io/web/intro.html)).</a>
+  <a>I am currently a **Postdoctoral Research Associate** at the **University of Exeter**. I'm based in the Peninsula Collaboration for Health Operational Research and Data Science ([PenCHORD](https://penchord.github.io/web/intro.html)).</a>
   <br>
   <br>
   <a href="orcid">[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--6596--3479-brightgreen)](https://orcid.org/0000-0002-6596-3479)</a>
