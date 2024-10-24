@@ -52,7 +52,22 @@ src="https://media.giphy.com/media/loLCwSfArr6hBTE4nI/giphy.gif" height="40" /><
 
 <details><summary><b>Kailo - Delivery #BeeWell (a school-based wellbeing survey) with schools in Northern Devon</b></summary>
 
-[Creating streamlit dashboards to share #BeeWell survey results for the Kailo project](https://github.com/orgs/kailo-beewell/repositories)
+<br>
+
+I worked on Kailo from October 2022 to April 2024. My role was to help set-up, deliver and deliver dashboards for the #BeeWell survey. This was a school-based wellbeing survey being completed by secondary school pupils in Northern Devon in the academic year 2023-24. There were two versions of the survey - a standard survey being delivered at seven mainstream schools, and a symbol version being delivered at two non-mainstream schools. The video below provides a helpful introduction to the survey. It was designed to introduce young people to the survey. You can find out more about the survey at <https://kailo.community/beewell/>.
+
+TODO: Add video like:
+
+[![Watch the video](image url)](https://youtu.be/vt5fpE0bzSY)
+
+We planned to share results from the survey will be shared using dashboards (with dashboards for school-level and area-level dashboards). These are publically available with synthetic data. These have been produced using Streamlit.
+
+* GitHub repository: [https://github.com/kailo-beewell](https://github.com/kailo-beewell)
+* Package used to produce dashboards: [kailo-beewell-dashboard](https://github.com/kailo-beewell/kailo_beewell_dashboard_package).
+* Streamlit dashboards:
+    * Standard survey school dashboard - [![Dashboard example](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://synthetic-beewell-kailo-standard-school-dashboard.streamlit.app/)
+    * Symbol survey school dashboard - [![Dashboard example](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://synthetic-beewell-kailo-symbol-school-dashboard.streamlit.app/)
+    * Area-level dashboard - [in development](https://github.com/kailo-beewell/synthetic_northern_devon_dashboard)
 
 </details>
 
