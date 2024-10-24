@@ -56,7 +56,7 @@ src="https://media.giphy.com/media/loLCwSfArr6hBTE4nI/giphy.gif" height="40" /><
 
 <img align="right" src="https://raw.githubusercontent.com/amyheather/amyheather/refs/heads/main/images/beewell_kailo_colour_logo.png" alt="Kailo #BeeWell" height="200">
 
-I worked on Kailo from October 2022 to April 2024. My role was to help set-up, deliver and deliver dashboards for the #BeeWell survey. This was a school-based wellbeing survey being completed by secondary school pupils in Northern Devon in the academic year 2023-24. There were two versions of the survey - a standard survey being delivered at seven mainstream schools, and a symbol version being delivered at two non-mainstream schools. [This video](https://youtu.be/vt5fpE0bzSY) below provides a helpful introduction to the survey. It was designed to introduce young people to the survey. You can find out more about the survey at <https://kailo.community/beewell/>.
+I worked on Kailo from October 2022 to April 2024. My role was related to set-up and delivery of the #BeeWell survey, and the creation of dashboards to share results with schools and other stakeholders. #BeeWell was a school-based wellbeing survey being completed by secondary school pupils in Northern Devon in the academic year 2023-24. There were two versions of the survey - a standard survey being delivered at seven mainstream schools, and a symbol version being delivered at two non-mainstream schools. [This video](https://youtu.be/vt5fpE0bzSY) below provides a helpful introduction to the survey. It was designed to introduce young people to the survey. You can find out more about the survey at <https://kailo.community/beewell/>.
 
 We planned to share results from the survey will be shared using dashboards (with dashboards for school-level and area-level dashboards). These are publically available with synthetic data. These have been produced using Streamlit.
 
@@ -65,7 +65,7 @@ We planned to share results from the survey will be shared using dashboards (wit
 * Streamlit dashboards:
     * Standard survey school dashboard - [![Dashboard example](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://synthetic-beewell-kailo-standard-school-dashboard.streamlit.app/)
     * Symbol survey school dashboard - [![Dashboard example](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://synthetic-beewell-kailo-symbol-school-dashboard.streamlit.app/)
-    * Area-level dashboard - [in development](https://github.com/kailo-beewell/synthetic_northern_devon_dashboard)
+    * Area-level dashboard - [![Dashboard example](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://synthetic-beewell-kailo-public-dashboard.streamlit.app/)
 
 </details>
 
