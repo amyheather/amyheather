@@ -38,8 +38,12 @@ src="https://media.giphy.com/media/loLCwSfArr6hBTE4nI/giphy.gif" height="40" /><
 
 ### 🌱 I’m currently working on ...
 
-**STARS** - Sharing Tools and Artefacts for Reusable Simulations in Healthcare
-* [GitHub organisation](https://github.com/pythonhealthdatascience)
+**STARS** - Sharing Tools and Artefacts for Reusable Simulations in Healthcare - [GitHub organisation](https://github.com/pythonhealthdatascience)
+
+<a href="https://github.com/pythonhealthdatascience">
+<img src="https://raw.githubusercontent.com/pythonhealthdatascience/stars-logo/refs/heads/main/stars_banner.png" alt="STARS logo and banner">
+</a>
+
 ---
 
 ### 🔭 I’ve previously worked on ...
