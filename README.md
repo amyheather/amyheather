@@ -13,6 +13,8 @@ src="https://media.giphy.com/media/loLCwSfArr6hBTE4nI/giphy.gif" height="40" /><
   <a href="linkedin">[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amy_Heather-0A66C2)](https://www.linkedin.com/in/amyheather/)</a>
   <a href="dimensions">[![Dimensions](https://img.shields.io/badge/Dimensions-ur.011030126111.42-yellow)](https://app.dimensions.ai/discover/publication?and_facet_researcher=ur.011030126111.42)</a>
   <a href="scopus">[![Scopus](https://img.shields.io/badge/Scopus-58306926100-e7c6ff)](https://www.scopus.com/authid/detail.uri?authorId=58306926100)</a>
+  <a href="email">[![Email](https://img.shields.io/badge/Email-a.heather2@exeter.ac.uk-FFC0CB)](mailto:a.heather2@exeter.ac.uk)</a>
+  <a href="exeter_profile">[![Exeter staff profile](https://img.shields.io/badge/Exeter_staff_profile-Amy_Heather-003c3c)](https://experts.exeter.ac.uk/39947-amy-heather)</a>
 
 </div>
 
@@ -48,27 +50,28 @@ src="https://media.giphy.com/media/loLCwSfArr6hBTE4nI/giphy.gif" height="40" /><
 
 ### 🔭 I’ve previously worked on ...
 
-**Kailo** - Delivery #BeeWell (a school-based wellbeing survey) with schools in Northern Devon
-* [Creating streamlit dashboards to share #BeeWell survey results for the Kailo project](https://github.com/orgs/kailo-beewell/repositories)
+<details><summary><b>Kailo - Delivery #BeeWell (a school-based wellbeing survey) with schools in Northern Devon</b></summary>
 
-**Birth outcomes** - Pilot work on birth outcome prediction, using cardiotocography (CTG) data and causal inference methods
-* [GitHub organisation](https://github.com/birth-outcomes)
+[Creating streamlit dashboards to share #BeeWell survey results for the Kailo project](https://github.com/orgs/kailo-beewell/repositories)
 
-**IPACS** - Improving Patient flow between Acute, Community and Social care -
+</details>
+
+<details><summary><b>Birth outcomes - Pilot work on birth outcome prediction, using cardiotocography (CTG) data and causal inference methods</b></summary>
+  
+[GitHub organisation](https://github.com/birth-outcomes)
+
+</details>
+
+<details><summary><b>IPACS - Improving Patient flow between Acute, Community and Social care</b></summary>
+  
 * [Standard version of discrete-time simulation in NHS BNSSG Analytics repository](https://github.com/nhs-bnssg-analytics/ipacs-model)
 * [Package version of the visit-based simulation](https://github.com/amyheather/ipacs) and its [website](https://amyheather.github.io/ipacs/)
 
-**SAMueL2** - Stroke Audit Machine Learning -
+</details>
+
+<details><summary><b>SAMueL2 - Stroke Audit Machine Learning</b></summary>
+  
 * [Data cleaning and descriptive analysis of SNNAP data](https://github.com/samuel-book/samuel_2_data_prep)
 * [Demographics of emergency stroke unit catchment areas](https://github.com/samuel-book/stroke_unit_demographics)
 
----
-
-### 📫 How to reach me: ...
-a.heather2@exeter.ac.uk
-
----
-
-### GitHub stats
-
-![Amy's GitHub stats](https://github-readme-stats.vercel.app/api?username=amyheather&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&rank_icon=github)
+</details>
