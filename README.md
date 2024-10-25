@@ -88,3 +88,13 @@ We planned to share results from the survey will be shared using dashboards (wit
 * [Demographics of emergency stroke unit catchment areas](https://github.com/samuel-book/stroke_unit_demographics)
 
 </details>
+
+---
+
+### 🌸 These are a few of my favourite things...
+
+* [Quarto](https://quarto.org/)
+* [Streamlit](https://streamlit.io/)
+* [Image colour picker](https://imagecolorpicker.com/)
+* [Draw.io](https://draw.io)
+* [Inkscape](https://inkscape.org/)
