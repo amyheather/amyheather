@@ -51,13 +51,18 @@ I am working on the STARS project from May 2024 to April 2026. Highlights so far
 * [Computational reproducibility assessments](https://pythonhealthdatascience.github.io/stars_wp1_summary/) of eight published discrete-event simulation studies in health. For each study, I attempted reproduce any results tables, figures and in-text results. I also evaluated the repository and article against various guidelines and criteria. For each assessment, the results are shared as a quarto site, with the repository structured as a "researched compendium", and test-run by a second team member.
 
 <p align="middle">
-  <img src="images/stars_eomrcc_website_preview.png" width="49%" />
+  <img src="images/stars_wp1_workflow.png" width="49%" />
 </p>
+
 
 * [Modifications to the "Exeter Oncology Model: Renal Cell Carcinoma edition (EOM-RCC)"](https://github.com/pythonhealthdatascience/stars-eom-rcc). This is a model associated with technology appraisals from the National Institute of Health and Care Excellence (NICE), which was developed by the Peninsula Technology Assessment Group (PenTAG). I worked on this model to improve its open science credentials, developing a [clear README](https://github.com/pythonhealthdatascience/stars-eom-rcc), [website hosting detailed documentation](https://pythonhealthdatascience.github.io/stars-eom-rcc/), and a [pilot web application for exploring treatment sequences](https://amyheather.shinyapps.io/shinyapp/).
 
 <p align="middle">
+  <img src="images/stars_eomrcc_website_preview.png" width="49%" />
   <img src="images/stars_eomrcc_webapp_preview.png" width="49%" />
+</p>
+
+<p align="right">
   <img src="images/stars_eomrcc_webapp_preview2.png" width="49%" /> 
 </p>
 
