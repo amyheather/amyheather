@@ -67,6 +67,8 @@ We planned to share results from the survey will be shared using dashboards (wit
     * Symbol survey school dashboard - [![Dashboard example](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://synthetic-beewell-kailo-symbol-school-dashboard.streamlit.app/)
     * Area-level dashboard - [![Dashboard example](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://synthetic-beewell-kailo-public-dashboard.streamlit.app/)
 
+My time on this project ended during the survey collection window. At this point, several schools had begun successfully completing the survey, and I had developed three synthetic dashboards which were very nearly complete. Before leaving, I spent a few months explaining the survey and dashboards to two colleagues at Dartington Service Design Lab, who took over the survey delivery and analysis from the point when I left the project. As such, I am no longer responsible for maintenance of these dashboards.
+
 </details>
 
 <details><summary><b>Birth outcomes - Pilot work on birth outcome prediction, using cardiotocography (CTG) data and causal inference methods</b></summary>
