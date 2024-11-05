@@ -69,6 +69,18 @@ We planned to share results from the survey will be shared using dashboards (wit
 
 My time on this project ended during the survey collection window. At this point, several schools had begun successfully completing the survey, and I had developed three synthetic dashboards which were very nearly complete. Before leaving, I spent a few months explaining the survey and dashboards to two colleagues at Dartington Service Design Lab, who took over the survey delivery and analysis from the point when I left the project. As such, I am no longer responsible for maintenance of these dashboards.
 
+Exemplar screenshots from dashboards:
+
+<p align="middle">
+  <img src="images/kailo_area1.png" width="49%" />
+  <img src="images/kailo_area2.png" width="49%" /> 
+</p>
+
+<p align="middle">
+  <img src="images/kailo_standard1.png" width="49%" />
+  <img src="images/kailo_standard2.png" width="49%" /> 
+</p>
+
 </details>
 
 <details><summary><b>Birth outcomes - Pilot work on birth outcome prediction, using cardiotocography (CTG) data and causal inference methods</b></summary>
