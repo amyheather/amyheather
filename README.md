@@ -126,9 +126,18 @@ In **March and April 2023**, I contributed to the discrete-time model on IPACS.
 </details>
 
 <details><summary><b>SAMueL2 - Stroke Audit Machine Learning</b></summary>
-  
-* [Data cleaning and descriptive analysis of SNNAP data](https://github.com/samuel-book/samuel_2_data_prep)
-* [Demographics of emergency stroke unit catchment areas](https://github.com/samuel-book/stroke_unit_demographics)
+
+<br>
+
+In **Spring 2023**, I spent a little bit of time on some tasks for the SAMueL2 project. These were:
+
+* Data cleaning and descriptive analysis of SSNAP data ([repository](https://github.com/samuel-book/samuel_2_data_prep))
+* Demographics of emergency stroke unit catchment areas ([repository](https://github.com/samuel-book/stroke_unit_demographics), [website](https://samuel-book.github.io/stroke_unit_demographics/03_create_maps.html))
+
+<p align="middle">
+  <img src="images/samuel_cleaning.png" width="49%" />
+  <img src="images/samuel_maps.png" width="49%" /> 
+</p>
 
 </details>
 
