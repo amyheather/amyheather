@@ -70,7 +70,7 @@ I am working on the STARS project from **May 2024 to April 2026**. Highlights so
 
 ### 🔭 I’ve previously worked on ...
 
-<details><summary><b>Kailo - Delivery #BeeWell (a school-based wellbeing survey) with schools in Northern Devon</b></summary>
+<details><summary><b>Kailo - Delivering #BeeWell (a school-based wellbeing survey) with schools in Northern Devon</b></summary>
 
 <br>
 
@@ -113,7 +113,7 @@ Exemplar screenshots from dashboards:
 
 <br>
 
-In **March and April 2023**, I contributed to the discrete-time model on IPACS.
+In **Spring 2023**, I contributed to the discrete-time model on IPACS.
 
 * **Model code:** I worked through the code for the model, rewriting and simplifying to improve clarity, adding comments and docstrings, and identifying and fixing bugs (as detailed [here](https://github.com/AliHarp/IPACS_MODEL)). This contributed to the [final repository hosted with NHS BNSSG Analytics](https://github.com/nhs-bnssg-analytics/ipacs-model).
 * **Package and website:** I also created an example of converting part of the model (the visit-based simulation) into an R package, [as in this repository](https://github.com/amyheather/ipacs). This is supported by a [website](https://amyheather.github.io/ipacs/) that provides an overview of how to run the model, and information about the model functions.
