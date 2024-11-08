@@ -115,9 +115,13 @@ Exemplar screenshots from dashboards:
 
 In **March and April 2023**, I contributed to the discrete-time model on IPACS.
 
-I worked through the code for the model, rewriting and simplifying to improve clarity, adding comments and docstrings, and identifying and fixing bugs (as detailed [here](https://github.com/AliHarp/IPACS_MODEL)). This contributed to the [final repository hosted with NHS BNSSG Analytics](https://github.com/nhs-bnssg-analytics/ipacs-model).
+* **Model code:** I worked through the code for the model, rewriting and simplifying to improve clarity, adding comments and docstrings, and identifying and fixing bugs (as detailed [here](https://github.com/AliHarp/IPACS_MODEL)). This contributed to the [final repository hosted with NHS BNSSG Analytics](https://github.com/nhs-bnssg-analytics/ipacs-model).
+* **Package and website:** I also created an example of converting part of the model (the visit-based simulation) into an R package, [as in this repository](https://github.com/amyheather/ipacs). This is supported by a [website](https://amyheather.github.io/ipacs/) that provides an overview of how to run the model, and information about the model functions.
 
-I also created an example of converting part of the model (the visit-based simulation) into an R package, [as in this repository](https://github.com/amyheather/ipacs). This is supported by a [website](https://amyheather.github.io/ipacs/) that provides an overview of how to run the model, and information about the model functions.
+<p align="middle">
+  <img src="images/ipacs_bnssg.png" width="49%" />
+  <img src="images/ipacs_website.png" width="49%" /> 
+</p>
 
 </details>
 
