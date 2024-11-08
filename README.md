@@ -46,7 +46,7 @@ src="https://media.giphy.com/media/loLCwSfArr6hBTE4nI/giphy.gif" height="40" /><
 <img src="https://raw.githubusercontent.com/pythonhealthdatascience/stars-logo/refs/heads/main/stars_banner.png" alt="STARS logo and banner">
 </a>
 
-I am working on the STARS project from May 2024 to April 2026. Highlights so far:
+I am working on the STARS project from **May 2024 to April 2026**. Highlights so far:
 
 * [Computational reproducibility assessments](https://pythonhealthdatascience.github.io/stars_wp1_summary/) of eight published discrete-event simulation studies in health. For each study, I attempted reproduce any results tables, figures and in-text results. I also evaluated the repository and article against various guidelines and criteria. For each assessment, the results are shared as a quarto site, with the repository structured as a "researched compendium", and test-run by a second team member.
 
@@ -76,7 +76,7 @@ I am working on the STARS project from May 2024 to April 2026. Highlights so far
 
 <img align="right" src="https://raw.githubusercontent.com/amyheather/amyheather/refs/heads/main/images/beewell_kailo_colour_logo.png" alt="Kailo #BeeWell" height="200">
 
-I worked on Kailo from October 2022 to April 2024. My role was related to set-up and delivery of the #BeeWell survey, and the creation of dashboards to share results with schools and other stakeholders. #BeeWell was a school-based wellbeing survey being completed by secondary school pupils in Northern Devon in the academic year 2023-24. There were two versions of the survey - a standard survey being delivered at seven mainstream schools, and a symbol version being delivered at two non-mainstream schools. [This video](https://youtu.be/vt5fpE0bzSY) below provides a helpful introduction to the survey. It was designed to introduce young people to the survey. You can find out more about the survey at <https://kailo.community/beewell/>.
+I worked on Kailo from **October 2022 to April 2024**. My role was related to set-up and delivery of the #BeeWell survey, and the creation of dashboards to share results with schools and other stakeholders. #BeeWell was a school-based wellbeing survey being completed by secondary school pupils in Northern Devon in the academic year 2023-24. There were two versions of the survey - a standard survey being delivered at seven mainstream schools, and a symbol version being delivered at two non-mainstream schools. [This video](https://youtu.be/vt5fpE0bzSY) below provides a helpful introduction to the survey. It was designed to introduce young people to the survey. You can find out more about the survey at <https://kailo.community/beewell/>.
 
 We planned to share results from the survey will be shared using dashboards (with dashboards for school-level and area-level dashboards). These are publically available with synthetic data. These have been produced using Streamlit.
 
@@ -110,9 +110,14 @@ Exemplar screenshots from dashboards:
 </details>
 
 <details><summary><b>IPACS - Improving Patient flow between Acute, Community and Social care</b></summary>
-  
-* [Standard version of discrete-time simulation in NHS BNSSG Analytics repository](https://github.com/nhs-bnssg-analytics/ipacs-model)
-* [Package version of the visit-based simulation](https://github.com/amyheather/ipacs) and its [website](https://amyheather.github.io/ipacs/)
+
+<br>
+
+In **March and April 2023**, I contributed to the discrete-time model on IPACS.
+
+I worked through the code for the model, rewriting and simplifying to improve clarity, adding comments and docstrings, and identifying and fixing bugs (as detailed [here](https://github.com/AliHarp/IPACS_MODEL)). This contributed to the [final repository hosted with NHS BNSSG Analytics](https://github.com/nhs-bnssg-analytics/ipacs-model).
+
+I also created an example of converting part of the model (the visit-based simulation) into an R package, [as in this repository](https://github.com/amyheather/ipacs). This is supported by a [website](https://amyheather.github.io/ipacs/) that provides an overview of how to run the model, and information about the model functions.
 
 </details>
 
