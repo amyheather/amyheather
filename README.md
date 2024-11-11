@@ -15,7 +15,8 @@ src="https://media.giphy.com/media/loLCwSfArr6hBTE4nI/giphy.gif" height="40" /><
   <a href="scopus">[![Scopus](https://img.shields.io/badge/Scopus-58306926100-e7c6ff)](https://www.scopus.com/authid/detail.uri?authorId=58306926100)</a>
   <a href="email">[![Email](https://img.shields.io/badge/Email-a.heather2@exeter.ac.uk-FFC0CB)](mailto:a.heather2@exeter.ac.uk)</a>
   <a href="exeter_profile">[![Exeter staff profile](https://img.shields.io/badge/Exeter_staff_profile-Amy_Heather-003c3c)](https://experts.exeter.ac.uk/39947-amy-heather)</a>
-
+  <a href="osf">[![Open Science Framework (OSF)](https://img.shields.io/badge/Open_Science_Framework_(OSF)-Amy_Heather-27b8ef)](https://osf.io/wmxtc/)</a>
+  
 </div>
 
 <div id="header" align="center">
