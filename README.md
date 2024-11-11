@@ -144,6 +144,12 @@ In **Spring 2023**, I spent a little bit of time on some tasks for the SAMueL2 p
 
 </details>
 
+<details><summary><b>Health economics - multiple sclerosis (MS)</b></summary>
+
+[GitHub organisation](https://github.com/exeterhems)
+
+</details>
+
 ---
 
 ### 🌸 These are a few of my favourite things...
