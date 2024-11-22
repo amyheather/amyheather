@@ -159,3 +159,4 @@ In **Spring 2023**, I spent a little bit of time on some tasks for the SAMueL2 p
 * [Image colour picker](https://imagecolorpicker.com/)
 * [Draw.io](https://draw.io)
 * [Inkscape](https://inkscape.org/)
+* [Colour blindness simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/)
