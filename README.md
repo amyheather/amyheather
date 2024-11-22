@@ -154,9 +154,16 @@ In **Spring 2023**, I spent a little bit of time on some tasks for the SAMueL2 p
 
 ### 🌸 These are a few of my favourite things...
 
+For creating websites and applications:
+
 * [Quarto](https://quarto.org/)
 * [Streamlit](https://streamlit.io/)
-* [Image colour picker](https://imagecolorpicker.com/)
-* [Draw.io](https://draw.io)
-* [Inkscape](https://inkscape.org/)
-* [Colour blindness simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/)
+
+For creating diagrams and images:
+
+* [Image colour picker](https://imagecolorpicker.com/) - get the HEX code of the colour in an image
+* [Draw.io](https://draw.io) - create flow-charts
+* [Inkscape](https://inkscape.org/) - create diagrams as SVG
+* [Colour blindness simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/) - check how your image will appear for people with different colour blindness
+* [Sketch.io](https://sketch.io/sketchpad/) - free-hand draw PNGs
+* [uxwing](https://uxwing.com/) - icons for use freely without attribution
