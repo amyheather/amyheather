@@ -107,9 +107,11 @@ Exemplar screenshots from dashboards:
 
 </details>
 
-<details><summary><b>Birth outcomes - Pilot work on birth outcome prediction, using cardiotocography (CTG) data and causal inference methods</b></summary>
-  
-[GitHub organisation](https://github.com/birth-outcomes)
+<details><summary><b>Birth outcomes - pilot work</b></summary>
+
+<br>
+
+From **October 2023 to April 2024** I carried out some pilot work on birth outcome prediction, using cardiotocography (CTG) data and causal inference methods. See: [GitHub organisation](https://github.com/birth-outcomes).
 
 </details>
 
@@ -146,6 +148,14 @@ In **Spring 2023**, I spent a little bit of time on some tasks for the SAMueL2 p
 </details>
 
 <details><summary><b>Health economics - multiple sclerosis (MS)</b></summary>
+
+<br>
+
+In Spring and Summer 2022, I worked with the University of Exeter Health Economics group.
+
+Publications:
+
+* A Heather; E Goodwin; C Green; N Morrish; OC Ukoumunne; RM Middleton; A Hawton. 2023. Multiple sclerosis health-related quality of life utility values from the UK MS register. Multiple Sclerosis Journal - Experimental, Translational and Clinical. https://doi.org/10.1177/20552173231178441.
 
 [GitHub organisation](https://github.com/exeterhems)
 
