@@ -48,24 +48,50 @@ src="https://media.giphy.com/media/loLCwSfArr6hBTE4nI/giphy.gif" height="40" /><
 <img src="https://raw.githubusercontent.com/pythonhealthdatascience/stars-logo/refs/heads/main/stars_banner.png" alt="STARS logo and banner">
 </a>
 
-I am working on the STARS project from **May 2024 to April 2026**. Highlights so far:
+I am working on the STARS project from **May 2024 to April 2026**. This has involved:
 
-* [Computational reproducibility assessments](https://pythonhealthdatascience.github.io/stars_wp1_summary/) of eight published discrete-event simulation studies in health. For each study, I attempted reproduce any results tables, figures and in-text results. I also evaluated the repository and article against various guidelines and criteria. For each assessment, the results are shared as a quarto site, with the repository structured as a "researched compendium", and test-run by a second team member.
+* Developing template discrete-event simulation repositories in [Python (SimPy)](https://github.com/pythonhealthdatascience/rap_template_python_des) and [R (simmer)](https://github.com/pythonhealthdatascience/rap_template_r_des) which form a reproducible analytical pipeline (RAP) and follow best practice for sharing reproducible models.
 
-<p align="middle">
-  <img src="images/stars_wp1_workflow.png" width="49%" />
+<p align="left">
+  <a href="https://github.com/pythonhealthdatascience/rap_template_python_des">
+  <img src="images/stars_template_python.png" width="49%" />
+  </a>
+  <a href="https://github.com/pythonhealthdatascience/rap_template_r_des">
+  <img src="images/stars_template_r.png" width="49%" />
+  </a>
 </p>
 
+* [Computational reproducibility assessments](https://pythonhealthdatascience.github.io/stars_wp1_summary/) of eight published discrete-event simulation studies in health. For each study, I attempted reproduce any results tables, figures and in-text results. I also evaluated the repository and article against various guidelines and criteria. For each assessment, the results are shared as a quarto site, with the repository structured as a "researched compendium", and test-run by a second team member. Associated pre-print: [10.48550/arXiv.2501.13137](https://doi.org/10.48550/arXiv.2501.13137).
+
+<p align="middle">
+  <a href="https://pythonhealthdatascience.github.io/stars_wp1_summary/">
+  <img src="images/stars_wp1_workflow.png" width="49%" />
+  </a>
+</p>
+
+* Contributing to the [Health Service Modelling Associates (HSMA) Discrete-Event Simulation Book](https://github.com/hsma-programme/hsma6_des_book/).
+
+<p align="middle">
+  <a href="https://github.com/hsma-programme/hsma6_des_book/">
+  <img src="images/hsma_logo_transparent_background_large.png" width="30%" />
+  </a>
+</p>
 
 * [Modifications to the "Exeter Oncology Model: Renal Cell Carcinoma edition (EOM-RCC)"](https://github.com/pythonhealthdatascience/stars-eom-rcc). This is a model associated with technology appraisals from the National Institute of Health and Care Excellence (NICE), which was developed by the Peninsula Technology Assessment Group (PenTAG). I worked on this model to improve its open science credentials, developing a [clear README](https://github.com/pythonhealthdatascience/stars-eom-rcc), [website hosting detailed documentation](https://pythonhealthdatascience.github.io/stars-eom-rcc/), and a [pilot web application for exploring treatment sequences](https://amyheather.shinyapps.io/shinyapp/).
 
-<p align="middle">
+<p align="left">
+  <a href="https://pythonhealthdatascience.github.io/stars-eom-rcc/">
   <img src="images/stars_eomrcc_website_preview.png" width="49%" />
+  </a>
+  <a href="https://amyheather.shinyapps.io/shinyapp/">
   <img src="images/stars_eomrcc_webapp_preview.png" width="49%" />
+  </a>
 </p>
 
 <p align="right">
-  <img src="images/stars_eomrcc_webapp_preview2.png" width="49%" /> 
+  <a href="https://amyheather.shinyapps.io/shinyapp/">
+  <img src="images/stars_eomrcc_webapp_preview2.png" width="49%" />
+  </a>
 </p>
 
 ---
@@ -76,7 +102,9 @@ I am working on the STARS project from **May 2024 to April 2026**. Highlights so
 
 <br>
 
+<a href="https://kailo.community/beewell/">
 <img align="right" src="https://raw.githubusercontent.com/amyheather/amyheather/refs/heads/main/images/beewell_kailo_colour_logo.png" alt="Kailo #BeeWell" height="200">
+</a>
 
 I worked on Kailo from **October 2022 to April 2024**. My role was related to set-up and delivery of the #BeeWell survey, and the creation of dashboards to share results with schools and other stakeholders. #BeeWell was a school-based wellbeing survey being completed by secondary school pupils in Northern Devon in the academic year 2023-24. There were two versions of the survey - a standard survey being delivered at seven mainstream schools, and a symbol version being delivered at two non-mainstream schools. [This video](https://youtu.be/vt5fpE0bzSY) below provides a helpful introduction to the survey. It was designed to introduce young people to the survey. You can find out more about the survey at <https://kailo.community/beewell/>.
 
@@ -125,8 +153,12 @@ In **Spring 2023**, I contributed to the discrete-time model on IPACS.
 * **Package and website:** I also created an example of converting part of the model (the visit-based simulation) into an R package, [as in this repository](https://github.com/amyheather/ipacs). This is supported by a [website](https://amyheather.github.io/ipacs/) that provides an overview of how to run the model, and information about the model functions.
 
 <p align="middle">
+  <a href="https://github.com/nhs-bnssg-analytics/ipacs-model">
   <img src="images/ipacs_bnssg.png" width="49%" />
-  <img src="images/ipacs_website.png" width="49%" /> 
+  </a>
+  <a href="https://amyheather.github.io/ipacs/">
+  <img src="images/ipacs_website.png" width="49%" />
+  </a>
 </p>
 
 </details>
@@ -141,8 +173,12 @@ In **Spring 2023**, I spent a little bit of time on some tasks for the SAMueL2 p
 * Demographics of emergency stroke unit catchment areas ([repository](https://github.com/samuel-book/stroke_unit_demographics), [website](https://samuel-book.github.io/stroke_unit_demographics/03_create_maps.html))
 
 <p align="middle">
+  <a href="https://github.com/samuel-book/samuel_2_data_prep">
   <img src="images/samuel_cleaning.png" width="49%" />
-  <img src="images/samuel_maps.png" width="49%" /> 
+  </a>
+  <a href="https://github.com/samuel-book/stroke_unit_demographics">
+  <img src="images/samuel_maps.png" width="49%" />
+  </a>
 </p>
 
 </details>
