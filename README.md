@@ -41,7 +41,15 @@ src="https://media.giphy.com/media/loLCwSfArr6hBTE4nI/giphy.gif" height="40" /><
 
 ---
 
-### 🌱 I’m currently working on ...
+### 💼 Side projects:
+
+[**Lintquarto**](https://github.com/lintquarto/lintquarto): package for running linters, static type checkers and code analysis tools on python code in quarto (`.qmd`) files.
+
+[**Healthcare Services Analytics & Decision Science Atlas**](https://github.com/hsma-programme/decision_intelligence_atlas): a directory of open-source tools, packages, and projects for analytics and decision science in healthcare.
+
+---
+
+### 🌱 Research projects I'm currently working on ...
 
 **STARS** - Sharing Tools and Artefacts for Reusable Simulations in Healthcare - [GitHub organisation](https://github.com/pythonhealthdatascience)
 
@@ -70,7 +78,7 @@ I am working on the STARS project from **May 2024 to April 2026**. This has invo
   </a>
 </p>
 
-* Contributing to the [Health Service Modelling Associates (HSMA) Discrete-Event Simulation Book](https://github.com/hsma-programme/hsma6_des_book/) and the [Healthcare Services Analytics & Decision Science Atlas](https://github.com/hsma-programme/decision_intelligence_atlas).
+* Contributing to the [Health Service Modelling Associates (HSMA) Discrete-Event Simulation Book](https://github.com/hsma-programme/hsma6_des_book/).
 
 <p align="middle">
   <a href="https://github.com/hsma-programme/hsma6_des_book/">
