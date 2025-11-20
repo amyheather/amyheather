@@ -70,7 +70,7 @@ I am working on the STARS project from **May 2024 to April 2026**. This has invo
   </a>
 </p>
 
-* Contributing to the [Health Service Modelling Associates (HSMA) Discrete-Event Simulation Book](https://github.com/hsma-programme/hsma6_des_book/).
+* Contributing to the [Health Service Modelling Associates (HSMA) Discrete-Event Simulation Book](https://github.com/hsma-programme/hsma6_des_book/) and the [Healthcare Services Analytics & Decision Science Atlas](https://github.com/hsma-programme/decision_intelligence_atlas).
 
 <p align="middle">
   <a href="https://github.com/hsma-programme/hsma6_des_book/">
