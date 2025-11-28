@@ -60,18 +60,19 @@ src="https://media.giphy.com/media/loLCwSfArr6hBTE4nI/giphy.gif" height="40" /><
 
 I am working on the STARS project from **May 2024 to April 2026**. This has involved:
 
-* Developing template discrete-event simulation repositories in [Python (SimPy)](https://github.com/pythonhealthdatascience/rap_template_python_des) and [R (simmer)](https://github.com/pythonhealthdatascience/rap_template_r_des) which form a reproducible analytical pipeline (RAP) and follow best practice for sharing reproducible models.
+* Writing the [DES RAP Book](https://github.com/pythonhealthdatascience/des_rap_book): a step-by-step guide for building Python and R simulation models as part of a reproducible analytical pipeline (RAP).
 
-<p align="left">
-  <a href="https://github.com/pythonhealthdatascience/rap_template_python_des">
-  <img src="images/stars_template_python.png" width="49%" />
-  </a>
-  <a href="https://github.com/pythonhealthdatascience/rap_template_r_des">
-  <img src="images/stars_template_r.png" width="49%" />
+<p align="middle">
+  <a href="https://pythonhealthdatascience.github.io/des_rap_book/">
+  <img src="images/des_rap_book.png" width="80%" />
   </a>
 </p>
 
-* [Computational reproducibility assessments](https://pythonhealthdatascience.github.io/stars_wp1_summary/) of eight published discrete-event simulation studies in health. For each study, I attempted reproduce any results tables, figures and in-text results. I also evaluated the repository and article against various guidelines and criteria. For each assessment, the results are shared as a quarto site, with the repository structured as a "researched compendium", and test-run by a second team member. Associated pre-print: [10.48550/arXiv.2501.13137](https://doi.org/10.48550/arXiv.2501.13137).
+* The book is accompanied by four example models demonstrating RAP in practice:
+  * Two implementing a synthetic M/M/s queueing model - [pydesrap_mms](https://github.com/pythonhealthdatascience/pydesrap_mms) and [rdesrap_mms](https://github.com/pythonhealthdatascience/rdesrap_mms)
+  * Two replicating a published stroke capacity model - [pydesrap_stroke](https://github.com/pythonhealthdatascience/pydesrap_stroke) and [rdesrap_stroke](https://github.com/pythonhealthdatascience/rdesrap_stroke)
+
+* [Computational reproducibility assessments](https://pythonhealthdatascience.github.io/stars_wp1_summary/) of eight published discrete-event simulation studies in health. For each study, I attempted reproduce any results tables, figures and in-text results. I also evaluated the repository and article against various guidelines and criteria. For each assessment, the results are shared as a quarto site, with the repository structured as a "researched compendium", and test-run by a second team member. Associated publication: [10.1080/17477778.2025.2552177](https://doi.org/10.1080/17477778.2025.2552177).
 
 <p align="middle">
   <a href="https://pythonhealthdatascience.github.io/stars_wp1_summary/">
@@ -80,12 +81,6 @@ I am working on the STARS project from **May 2024 to April 2026**. This has invo
 </p>
 
 * Contributing to the [Health Service Modelling Associates (HSMA) Discrete-Event Simulation Book](https://github.com/hsma-programme/hsma6_des_book/).
-
-<p align="middle">
-  <a href="https://github.com/hsma-programme/hsma6_des_book/">
-  <img src="images/hsma_logo_transparent_background_large.png" width="30%" />
-  </a>
-</p>
 
 * [Modifications to the "Exeter Oncology Model: Renal Cell Carcinoma edition (EOM-RCC)"](https://github.com/pythonhealthdatascience/stars-eom-rcc). This is a model associated with technology appraisals from the National Institute of Health and Care Excellence (NICE), which was developed by the Peninsula Technology Assessment Group (PenTAG). I worked on this model to improve its open science credentials, developing a [clear README](https://github.com/pythonhealthdatascience/stars-eom-rcc), [website hosting detailed documentation](https://pythonhealthdatascience.github.io/stars-eom-rcc/), and a [pilot web application for exploring treatment sequences](https://amyheather.shinyapps.io/shinyapp/).
 
