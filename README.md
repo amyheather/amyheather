@@ -6,19 +6,9 @@ src="https://media.giphy.com/media/loLCwSfArr6hBTE4nI/giphy.gif" height="40" /><
 
 <div align="center">
 
-  <a>I am currently a **Postdoctoral Research Associate** at the **University of Exeter**. I'm based in the Peninsula Collaboration for Health Operational Research and Data Science ([PenCHORD](https://penchord.github.io/web/intro.html)).</a>
+  <a>I am currently a **Postdoctoral Research Associate** at the **University of Exeter**. I'm based in the Peninsula Collaboration for Health Operational Research and Data Science.</a>
   <br>
-  <br>
-  <a href="orcid">[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--6596--3479-brightgreen)](https://orcid.org/0000-0002-6596-3479)</a>
-  <a href="linkedin">[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amy_Heather-0A66C2)](https://www.linkedin.com/in/amyheather/)</a>
-  <a href="dimensions">[![Dimensions](https://img.shields.io/badge/Dimensions-ur.011030126111.42-yellow)](https://app.dimensions.ai/discover/publication?and_facet_researcher=ur.011030126111.42)</a>
-  <a href="scopus">[![Scopus](https://img.shields.io/badge/Scopus-58306926100-e7c6ff)](https://www.scopus.com/authid/detail.uri?authorId=58306926100)</a>
-  <a href="email">[![Email](https://img.shields.io/badge/Email-a.heather2@exeter.ac.uk-FFC0CB)](mailto:a.heather2@exeter.ac.uk)</a>
-  <a href="exeter_profile">[![Exeter staff profile](https://img.shields.io/badge/Exeter_staff_profile-Amy_Heather-003c3c)](https://experts.exeter.ac.uk/39947-amy-heather)</a>
-  <a href="osf">[![Open Science Framework (OSF)](https://img.shields.io/badge/Open_Science_Framework_(OSF)-Amy_Heather-27b8ef)](https://osf.io/wmxtc/)</a>
-  <a href="osf">[![ResearchGate](https://img.shields.io/badge/ResearchGate-Amy_Heather-e0ecfc)](https://www.researchgate.net/profile/Amy-Heather-2/research)</a>
-  <a href="osf">[![Web of Science](https://img.shields.io/badge/Web_of_Science-OYD--7450--2025-5e33bf)](https://www.webofscience.com/wos/author/record/OYD-7450-2025)</a>
-  
+
 </div>
 
 <div id="header" align="center">
